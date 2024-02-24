@@ -1,0 +1,21 @@
+Notes on H1 data collection
+
+Date: February 16, 2024
+Time: 11:55 am
+Location: Football field, Northwest Corner, Ashoka University, Sonipat
+Weather conditions: 22 degree Celsius, sunny, almost clear sky
+Collector: Shagnik Dasgupta, Harshini Dhiyaa Velsamy, Kasturi, Upanshu Lakhani
+
+Software: IUCAA GUI
+OS: Ubuntu 22.04.2 LTS 64 bit
+
+Band center: 1420.4 MHz
+Bandwidth: 2 MHz
+
+[12:00 - Football field] Set up the instrument and pointed towards the ground.
+- Took 2 readings for the ground, 1 min and 5 min integration time (both of them showed similar features, only a small diference in power level. so we decided to take 60s integrations for further readings)
+- Took 1 souce reading (Az 225, Alt 13)
+- Took 1 sky reading pointed at the zenith, got an unusual bump at 1420.5 MHz.
+- So we took 1 more sky reading pointing somewhere else (not zenith)  (Az 346, Alt 38)
+test_sky_i2   , test_sky2  - is the best data taken so far for sky
+test_source_i2   , test_source2  ,258	,60	, 300				, 12:45

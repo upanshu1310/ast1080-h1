@@ -1,0 +1,11 @@
+reading		, filename	, azm	, alt	, time_integration (seconds)	, time_day
+test_ground_i   , test_ground1  , -	,-	, 60				, 16:20
+test_ground_i2   , test_ground2  ,224	,-	, 60				, 12:01
+test_ground_i3   , test_ground3  ,224	,-	, 300				, 12:02
+test_source_i   , test_source1  ,225	,13	, 60				, 12:13
+test_sky_i   , test_sky1  ,225	,90	, 60				, 12:16
+test_sky_i2   , test_sky2  ,346	,38	, 60				, 12:23
+test_sky_i3   , test_sky3  ,246	,31	, 300		, 12:31
+test_source_i2   , test_source2  ,258	,60	, 300				, 12:45
+test_sky_i4   , test_sky4  ,0	,53	, 60				, 12:57
+test_sky_i5   , test_sky5  ,0	,53	, 60				, 13:08
